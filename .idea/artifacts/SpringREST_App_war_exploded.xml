@@ -1,10 +1,10 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="Demo_SpringREST:war exploded">
+  <artifact type="exploded-war" name="SpringREST_App:war exploded">
     <output-path>$PROJECT_DIR$/target/Demo_SpringREST-0.0.1-SNAPSHOT</output-path>
     <properties id="maven-jee-properties">
       <options>
         <exploded>true</exploded>
-        <module>Demo_SpringREST</module>
+        <module>SpringREST_App</module>
         <packaging>war</packaging>
       </options>
     </properties>

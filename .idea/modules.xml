@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Demo_SpringREST.iml" filepath="$PROJECT_DIR$/Demo_SpringREST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringREST_App.iml" filepath="$PROJECT_DIR$/SpringREST_App.iml" />
     </modules>
   </component>
 </project>

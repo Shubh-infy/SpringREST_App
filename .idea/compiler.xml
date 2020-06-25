@@ -6,16 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Demo_SpringREST" />
+        <module name="SpringREST_App" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Demo_SpringREST" target="1.8" />
+      <module name="SpringREST_App" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="Demo_SpringREST" options="-parameters" />
+      <module name="SpringREST_App" options="-parameters" />
     </option>
   </component>
 </project>
